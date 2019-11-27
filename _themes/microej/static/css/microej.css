@@ -355,7 +355,7 @@ code,
 .wy-menu-vertical header,
 .wy-menu-vertical p.caption {
   color: #262a2c;
-  font-size: 120%;
+  font-size: .8rem;
 }
 
 .wy-menu-vertical li.current {
